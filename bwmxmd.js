@@ -1,4 +1,4 @@
 {
 	"name": "Bwm xmd sounds",
-	"total-sound": "161"
+	"total-sound": "100"
 }
