@@ -1,4 +1,4 @@
 {
-	"name": "Tiktokmusic-API",
-	"total-music": "161"
+	"name": "Bwm xmd sounds",
+	"total-sound": "161"
 }
